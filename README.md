@@ -13,6 +13,8 @@ instrukcioj:
 7. lavu kaj ripetu.
 
 Ĉi tio estis destinita por uzi per municioj, sed ĝi funkcios sur ĉio.
+
+
 --------------------------------------------------------------------------------------------------------------
 English
 instructions:
